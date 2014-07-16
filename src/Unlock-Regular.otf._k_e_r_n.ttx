@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <kern>
+    <version value="0"/>
+    <kernsubtable coverage="1" format="0">
+      <pair l="K" r="c" v="-35"/>
+      <pair l="K" r="ccedilla" v="-35"/>
+      <pair l="K" r="d" v="-35"/>
+      <pair l="K" r="e" v="-35"/>
+      <pair l="K" r="eacute" v="-35"/>
+      <pair l="K" r="ecircumflex" v="-35"/>
+      <pair l="K" r="edieresis" v="-35"/>
+      <pair l="K" r="egrave" v="-35"/>
+      <pair l="K" r="o" v="-35"/>
+      <pair l="K" r="oacute" v="-35"/>
+      <pair l="K" r="ocircumflex" v="-35"/>
+      <pair l="K" r="odieresis" v="-35"/>
+      <pair l="K" r="oe" v="-35"/>
+      <pair l="K" r="ograve" v="-35"/>
+      <pair l="K" r="oslash" v="-35"/>
+      <pair l="K" r="otilde" v="-35"/>
+      <pair l="K" r="q" v="-35"/>
+      <pair l="L" r="T" v="-80"/>
+      <pair l="L" r="quotesingle" v="-75"/>
+      <pair l="Lslash" r="T" v="-80"/>
+      <pair l="T" r="c" v="-20"/>
+      <pair l="T" r="ccedilla" v="-20"/>
+      <pair l="T" r="comma" v="-55"/>
+      <pair l="T" r="d" v="-20"/>
+      <pair l="T" r="e" v="-20"/>
+      <pair l="T" r="eacute" v="-20"/>
+      <pair l="T" r="ecircumflex" v="-20"/>
+      <pair l="T" r="edieresis" v="-20"/>
+      <pair l="T" r="egrave" v="-20"/>
+      <pair l="T" r="ellipsis" v="-55"/>
+      <pair l="T" r="o" v="-20"/>
+      <pair l="T" r="oacute" v="-20"/>
+      <pair l="T" r="ocircumflex" v="-20"/>
+      <pair l="T" r="odieresis" v="-20"/>
+      <pair l="T" r="oe" v="-20"/>
+      <pair l="T" r="ograve" v="-20"/>
+      <pair l="T" r="oslash" v="-20"/>
+      <pair l="T" r="otilde" v="-20"/>
+      <pair l="T" r="period" v="-55"/>
+      <pair l="T" r="q" v="-20"/>
+      <pair l="T" r="quotedblbase" v="-55"/>
+      <pair l="T" r="quotesinglbase" v="-55"/>
+      <pair l="V" r="comma" v="-60"/>
+      <pair l="V" r="ellipsis" v="-60"/>
+      <pair l="V" r="period" v="-60"/>
+      <pair l="V" r="quotedblbase" v="-60"/>
+      <pair l="V" r="quotesinglbase" v="-60"/>
+      <pair l="W" r="comma" v="-60"/>
+      <pair l="W" r="ellipsis" v="-60"/>
+      <pair l="W" r="period" v="-60"/>
+      <pair l="W" r="quotedblbase" v="-60"/>
+      <pair l="W" r="quotesinglbase" v="-60"/>
+      <pair l="Y" r="a" v="-30"/>
+      <pair l="Y" r="d" v="-50"/>
+      <pair l="Y" r="period" v="-55"/>
+      <pair l="comma" r="T" v="-55"/>
+      <pair l="f" r="braceright" v="55"/>
+      <pair l="f" r="bracketright" v="55"/>
+      <pair l="f" r="parenright" v="55"/>
+    </kernsubtable>
+  </kern>
+
+</ttFont>
